@@ -1,0 +1,25 @@
+{
+  "name": "projeto4ebac",
+  "version": "1.0.0",
+  "description": "Projeto 4 EBAC Clone Disney+",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vivianezzt/Projeto4EBAC.git"
+  },
+  "author": "Viviane Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianezzt/Projeto4EBAC/issues"
+  },
+  "homepage": "https://github.com/vivianezzt/Projeto4EBAC#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.5"
+  }
+}
