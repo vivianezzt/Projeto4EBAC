@@ -40,7 +40,7 @@
                 display: block;
 
                 &:hover {
-                    color: variaveis.$cor-texto-secundario;
+                    color: variaveis.$corTextoSecundario;
                 }
             }
         }
@@ -64,15 +64,15 @@
     select {
         background-color: transparent;
         border: none;
-        color: variaveis.$cor-texto-principal;
+        color: variaveis.$corTextoPrincipal;
         height: 38px;
 
         &:hover {
-            color: variaveis.$cor-texto-secundario;
+            color: variaveis.$corTextoSecundario;
         }
 
         option {
-            color: variaveis.$cor-de-fundo;
+            color: variaveis.$corDeFundo;
         }
     }
 }

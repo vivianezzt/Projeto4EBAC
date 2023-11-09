@@ -43,7 +43,7 @@
         }
 
         &__button {
-            color: variaveis.$cor-texto-secundario;
+            color: variaveis.$corTextoSecundario;
             font-size: 20px;
             border: none;
             padding-bottom: 5px;
@@ -54,7 +54,7 @@
             border-bottom: 5px solid transparent;
 
             &--is-active {
-                border-color: variaveis.$cor-texto-secundario;
+                border-color: variaveis.$corTextoSecundario;
             }
 
             @media (max-width: 768px) {
